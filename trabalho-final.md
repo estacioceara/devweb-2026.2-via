@@ -37,3 +37,37 @@ Serão avaliados a semântica HTML, a organização do CSS, a lógica JavaScript
 O estudante deverá ser capaz de explicar as principais partes do código e realizar uma pequena alteração durante a avaliação.
 
 **Importante:** a entrega não será avaliada apenas pela aparência. O funcionamento, a qualidade da implementação e a compreensão individual do código também fazem parte da nota.
+
+## AJUDA
+Proposta de arquitetura das pastas:
+```
+organizae/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+├── assets/
+├── README.md
+└── LICENSE
+```
+
+O README.md deve apresentar:
+- Nome do projeto e descrição.
+- Funcionalidades implementadas.
+- Instruções para executar a aplicação.
+- Tecnologias utilizadas.
+- Link para a aplicação publicada no GitHub Pages.
+- Uma breve explicação das principais decisões de implementação.
+
+5. Critérios de avaliação
+<table><thead><tr><th>Critério </th><th>Peso
+</th></tr></thead>
+  <tbody>
+<tr><td>Estrutura e semântica HTML	</td><td>15 pontos</td></tr>
+<tr><td>Organização e qualidade do CSS	</td><td>20 pontos</td></tr>
+<tr><td>JavaScript e manipulação do DOM	</td><td>25 pontos</td></tr>
+<tr><td>Funcionalidades e persistência	</td><td>20 pontos</td></tr>
+<tr><td>Responsividade e experiência do usuário	</td><td>10 pontos</td></tr>
+<tr><td>README, Git e publicação	</td><td>10 pontos</td></tr>
+ <td>Total</td><td>	100 pontos</td></tr></tbody></table>
