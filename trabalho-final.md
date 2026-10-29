@@ -2,7 +2,8 @@
 
 **Tema:** Desenvolvimento de uma aplicação web interativa com HTML, CSS e JavaScript.
 
-> **Data de entrega:** 19/11/2026 
+> **Data de entrega:** 19/11/2026
+> **Envio:** No SAVA
 
 ## Objetivo
 
